@@ -1,5 +1,5 @@
 ---
-eip: 1
+uip: 1
 title: Independent Proof-of-Work algorithm
 author: Julian Yap
 status: Draft
