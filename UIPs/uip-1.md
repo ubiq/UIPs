@@ -20,7 +20,7 @@ Changing the proof-of-work algorithm will also allow for increased independence 
 
 Ubiq will test and implement a new proof-of-work algorithm. A hard fork block will be announced.
 
-The new proof-of-work algorithm with either be ProgPow (described in EIP-1057) or a minor change in the current Ethash that will allow for easy adoption.
+The new proof-of-work algorithm will either be ProgPow (described in EIP-1057) or a minor change in the current Ethash that will allow for easy adoption.
 
 ## Backwards Compatibility
 
