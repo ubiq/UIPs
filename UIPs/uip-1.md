@@ -26,7 +26,7 @@ The new proof-of-work algorithm will either be ProgPow (described in EIP-1057) o
 
 Any adopted algorithm would not be backwards compatible with the existing Ethash and will require a hard fork for adoption.
 
-Depending on the algorithm adopted, factors such as network hashrate would proportionally change.
+Depending on the algorithm adopted, factors such as network hashrate would proportionally change on an equivalent hardware basis.
 
 ## References
 
