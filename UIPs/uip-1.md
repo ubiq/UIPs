@@ -38,7 +38,7 @@ Also get some hashing and verification benchmark numbers along the way.
 
 Any adopted algorithm would not be backwards compatible with the existing Ethash and will require a hard fork for adoption.
 
-Depending on the algorithm adopted, factors such as network hashrate would proportionally change.
+Depending on the algorithm adopted, factors such as network hashrate would proportionally change on an equivalent hardware basis.
 
 ## References
 
