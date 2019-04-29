@@ -2,7 +2,7 @@
 uip: 1
 title: Independent Proof-of-Work algorithm
 author: Julian Yap
-status: Draft
+status: Final
 created: 2018-05-30
 ---
 
@@ -46,4 +46,4 @@ Ethash https://github.com/ethereum/wiki/wiki/Ethash
 
 EIP-1057 https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1057.md
 
-
+Ubqhash https://blog.ubiqsmart.com/introducing-ubqhash-8fa515befd7
