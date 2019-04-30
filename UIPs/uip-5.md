@@ -8,7 +8,7 @@ created: 2018-04-30
 
 ## Simple Summary
 
-The following is a proposal for Escher (ESCH) to transition from an UBQ token to the base unit and native staking token of an Escher Hub on the Cosmos Network. This will retain Escher governance functionality as well as provide Ubiq with the benefits of running a  Hub on the Comos Network, enabling technologies such as Inter-Blockchain Communications (IBC).
+The following is a proposal for Escher (ESCH) to transition from an UBQ token to the base unit and native staking token of an Escher Hub on the Cosmos Network. This will retain Escher governance functionality as well as provide Ubiq with the benefits of running a  Hub on the Cosmos Network, enabling technologies such as Inter-Blockchain Communications (IBC).
 
 From the outset, Escher was built as the governance token of the Ubiq network which fuels and directs proposals (development and otherwise). It was always envisioned that Escher would also provide additional utility to the Ubiq ecosystem.
 
