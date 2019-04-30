@@ -3,7 +3,7 @@ uip: 5
 title: Escher to become an Escher Hub on the Cosmos Network with ESCH as the native staking token
 author: Julian Yap
 status: Draft
-created: 2018-04-30
+created: 2019-04-30
 ---
 
 ## Simple Summary
