@@ -2,7 +2,7 @@
 uip: 2
 title: Simplify the Network Development Fund
 author: Luke Williams
-status: Draft
+status: Final
 created: 2018-09-11
 ---
 

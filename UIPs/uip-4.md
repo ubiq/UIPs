@@ -2,7 +2,7 @@
 uip: 4
 title: Escher logo selection
 author: Kris Lester
-status: Draft
+status: Final
 created: 2018-11-06
 ---
 
